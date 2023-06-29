@@ -50,9 +50,7 @@ Web Browser: When publishing and accessing visualizations on Tableau Server or O
 
 ### Methodology
 a. Data Collection: The primary data source for this project is the National Crime Records Bureau (NCRB) report on suicides in India. The dataset contains information on various factors such as age, gender, occupation, causes, and methods of suicide.
-
 b. Data Preprocessing: The dataset is cleaned and prepared for visualization by removing duplicates, handling missing values, and transforming the data into a format suitable for analysis.
-
 c. Data Visualization: Tableau is used to create a series of visualizations to explore different aspects of suicide cases in India. The visualizations include charts, graphs, maps, and interactive dashboards.
  
 ***
@@ -272,7 +270,5 @@ CONTRIBUTORS:
 * [CHARAN VIVEK RAJ R](https://github.com/charan-vivek-raj-r)
 * [HARISH RAGAVENDAR R](https://github.com/harish12366)
 * [ABILASH N](https://github.com/Abilash-N)
-
-
-
-
+* [JEEVA S](https://github.com/Jeevasivasamy)
+  
